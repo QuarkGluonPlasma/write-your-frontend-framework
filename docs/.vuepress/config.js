@@ -2,7 +2,7 @@
 module.exports = {
 	title: '手写你的前端框架',
 	description: '从 0 到 1 手写前端框架',
-	base: '',
+	base: '/write-your-frontend-framework/',
 	themeConfig: {
 		"repo": "QuarkGluonPlasma/write-your-frontend-framework",
 		"repoLabel": "点亮⭐不迷路",

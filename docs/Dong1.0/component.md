@@ -1,4 +1,4 @@
-[上篇文章](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247487842&idx=1&sn=4576f83fbf8ac974fe0223ab7b3efeff&chksm=cf00de59f877574f695024890de3a3c8063ebf2dd0fb36702b6e63b974be405ca6b39043c739&token=1340070850&lang=zh_CN#rd)我们实现了 vdom 的渲染，这是前端框架的基础。但手写 vdom 太麻烦，我们又支持了 jsx，用它来写页面更简洁。
+上篇文章我们实现了 vdom 的渲染，这是前端框架的基础。但手写 vdom 太麻烦，我们又支持了 jsx，用它来写页面更简洁。
 
 jsx 不是直接编译成 vdom 的，而是生成 render function，执行之后产生 vdom。
 
